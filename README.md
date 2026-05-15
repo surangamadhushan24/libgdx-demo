@@ -35,8 +35,6 @@ Move the bucket to catch falling water drops while enjoying sound effects and ba
 
 ## 📸 Screenshot
 
-> Add your screenshot inside a folder named `screenshots`
-
 
 ![Gameplay Screenshot](screenshots/gameplay.png)
 
